@@ -1,9 +1,0 @@
-streamlit
-nsepy
-numpy
-datetime
-sklearn
-matplotlib.pyplot
-tensorflow
-keras
-LSTM
