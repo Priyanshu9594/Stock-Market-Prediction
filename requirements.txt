@@ -3,8 +3,6 @@ nsepy
 numpy
 datetime
 sklearn
-matplotlib
 matplotlib>=1.4.3
 keras
 tensorflow
-scikit-learn
