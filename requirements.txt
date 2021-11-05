@@ -3,5 +3,4 @@ nsepy
 numpy
 datetime
 matplotlib>=1.4.3
-keras
 tensorflow
