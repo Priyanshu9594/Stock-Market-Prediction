@@ -1,6 +1,10 @@
 streamlit
 nsepy
-numpy
+pandas>=0.19
+numpy>=1.9.2
 datetime
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
 matplotlib>=1.4.3
 tensorflow
+scikit-learn==0.22.1
