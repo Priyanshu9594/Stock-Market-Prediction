@@ -2,7 +2,6 @@ streamlit
 nsepy
 numpy
 datetime
-sklearn
 matplotlib>=1.4.3
 keras
 tensorflow
