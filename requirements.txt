@@ -1,9 +1,9 @@
-streamlit
-nsepy
+streamlit==0.88.0
+nsepy==0.8
 pandas>=0.19
 numpy>=1.9.2
 datetime
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
-matplotlib>=1.4.3
-tensorflow==2.7.0
+sklearn
+matplotlib==3.4.3
+tensorflow==2.3.0
+keras==2.4.3
