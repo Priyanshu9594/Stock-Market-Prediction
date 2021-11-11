@@ -121,7 +121,7 @@ scipy==1.7.1
 Send2Trash==1.8.0
 sgmllib3k==1.0.0
 six==1.15.0
-sklearn-preprocessing
+sklearn.preprocessing
 smart-open==5.2.1
 smmap==5.0.0
 snscrape==0.3.4
